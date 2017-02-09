@@ -1,0 +1,13 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+usabusinessscraper/__init__.py
+usabusinessscraper/items.py
+usabusinessscraper/pipelines.py
+usabusinessscraper/settings.py
+usabusinessscraper/spiders/__init__.py
+usabusinessscraper/spiders/proxylist.py
+usabusinessscraper/spiders/usabusinessspider.py
